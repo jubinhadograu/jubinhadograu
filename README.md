@@ -1,4 +1,4 @@
-<h3>ᓚᘏᗢ Oi! Me chamo Julia e estou cursando atualmente Desenvolvimento de Sistemas.</h3>
+<h3>ᓚᘏᗢ Oi! Me chamo Julia e atualmente estou cursando Desenvolvimento de Sistemas.</h3>
 
 - 🌱 Estudando C# e JavaScript
 - 😄 Pronouns: ela/dela
