@@ -1,14 +1,13 @@
 <h3>ᓚᘏᗢ Oi! Me chamo Julia e atualmente estou cursando Desenvolvimento de Sistemas.</h3>
 
 - 🌱 Estudando C# e JavaScript
-- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
 
 <div >
   
   <a href="https://github.com/jubinhadograu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubinhadograu&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubinhadograu&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubinhadograu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubinhadograu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
